@@ -1,0 +1,52 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtual environments ---
+venv/
+.env/
+.env.*/
+.venv/
+.venv*/
+ENV/
+env/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+# Optional: ignore Jupyter autosave backups
+*.ipynb_old
+
+# --- OS / editor files ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# --- Environment / config ---
+.env
+*.env
+*.ini
+*.cfg
+*.toml
+*.yaml
+*.yml
+
+# --- Reports / outputs ---
+outputs/
+reports/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.pdf
